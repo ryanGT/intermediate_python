@@ -7,7 +7,7 @@ def read_data():
 
 
 N = 3
-fmt = '%H:%M:%S%p %m/%d/%y'
+fmt = '%I:%M:%S%p %m/%d/%y'
 row_fmt = '%s,%s'#csv row
 out_list = []
 
